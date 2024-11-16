@@ -6,14 +6,10 @@
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" />
 
 ### About Me
+I am a fresh graduate of Informatics Engineering with a strong passion for UI/UX, Data Analysis, Data Science, and Frontend Development. With a solid foundation in user interface design and data analysis, I am constantly seeking ways to merge creativity and logic to create innovative and user-centric solutions.
 
-- 🔭 I'm currently working on various Machine Learning projects and exploring Generative AI.
-- 🌱 I'm passionate about exploring new technologies and their applications in Data Science.
+I am eager to contribute to a dynamic and innovative team and am always ready to learn and grow in the ever-evolving tech industry. I believe that my combined skills in design and analytics can add significant value to any project or organization I join.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faiz-abiyyu-rizqullah-saputra-2a81a01b5/)
-
-### Mission
-
-I have a mission to provide an materials learning end-to-end learning path for Data Science, Machine Learning, and Generative AI.
 
 ### Skills
 
