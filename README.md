@@ -31,3 +31,4 @@ I have a mission to provide an materials learning end-to-end learning path for D
 
 ### GitHub Stats
 
+![Bayuzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizAbiyyu&show_icons=true&theme=radical)
