@@ -25,7 +25,6 @@ I have a mission to provide an materials learning end-to-end learning path for D
 - **Figma**: 
 - **Framer**: 
 - **JavaScript, React**: 
-- **Golang**: 
 - **SQL**: 
 - **BI Tools**: Tableau, Power BI , Excel
 
