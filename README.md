@@ -9,7 +9,7 @@
 I am a fresh graduate of Informatics Engineering with a strong passion for UI/UX, Data Analysis, Data Science, and Frontend Development. With a solid foundation in user interface design and data analysis, I am constantly seeking ways to merge creativity and logic to create innovative and user-centric solutions.
 
 I am eager to contribute to a dynamic and innovative team and am always ready to learn and grow in the ever-evolving tech industry. I believe that my combined skills in design and analytics can add significant value to any project or organization I join.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faiz-abiyyu-rizqullah-saputra-2a81a01b5/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faizabiyyurizqullahsaputra/)
 
 # Skills Overview <br/>
 
