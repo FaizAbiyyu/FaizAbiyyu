@@ -11,6 +11,7 @@ I am a fresh graduate of Informatics Engineering with a strong passion for UI/UX
 I am eager to contribute to a dynamic and innovative team and am always ready to learn and grow in the ever-evolving tech industry. I believe that my combined skills in design and analytics can add significant value to any project or organization I join.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faiz-abiyyu-rizqullah-saputra-2a81a01b5/)
 
+
 # Skills Overview
 
 | **Soft Skills**            | **Hard Skills**                                                      | **Software Skills**                 |
