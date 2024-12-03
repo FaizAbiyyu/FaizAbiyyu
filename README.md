@@ -14,6 +14,8 @@ I am eager to contribute to a dynamic and innovative team and am always ready to
 
 # Skills Overview
 
+
+
 | **Soft Skills**            | **Hard Skills**                                                      | **Software Skills**                 |
 |----------------------------|----------------------------------------------------------------------|-------------------------------------|
 | - Analytical Thinking      | - Programming: Python, SQL                                           | - Data Visualization: Tableau       |
