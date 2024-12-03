@@ -11,18 +11,44 @@ I am a fresh graduate of Informatics Engineering with a strong passion for UI/UX
 I am eager to contribute to a dynamic and innovative team and am always ready to learn and grow in the ever-evolving tech industry. I believe that my combined skills in design and analytics can add significant value to any project or organization I join.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faiz-abiyyu-rizqullah-saputra-2a81a01b5/)
 
-### Skills
+# Skills Overview
 
-- **Python**: 
-- **HTML**: 
-- **CSS**: 
-- **Tailwind**: 
-- **Bostrap5**: 
-- **Figma**: 
-- **Framer**: 
-- **JavaScript, React**: 
-- **SQL**: 
-- **BI Tools**: Tableau, Power BI , Excel
+## Soft Skills
+- Analytical Thinking
+- Critical Thinking
+- Problem Solving
+- Communication
+
+## Hard Skills
+### Programming
+- Python
+- SQL
+
+### Data Science
+- Machine Learning
+- Deep Learning
+
+### Data Engineering
+- ETL/ELT
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+- Tailwind
+
+### Design
+- Figma
+- Framer
+
+## Software Skills
+### Data Visualization
+- Tableau
+- Power BI
+
+### Productivity
+- Excel
 
 ### GitHub Stats
 
