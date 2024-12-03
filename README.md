@@ -13,42 +13,14 @@ I am eager to contribute to a dynamic and innovative team and am always ready to
 
 # Skills Overview
 
-## Soft Skills
-- Analytical Thinking
-- Critical Thinking
-- Problem Solving
-- Communication
+| **Soft Skills**            | **Hard Skills**                                                      | **Software Skills**                 |
+|----------------------------|----------------------------------------------------------------------|-------------------------------------|
+| - Analytical Thinking      | - Programming: Python, SQL                                           | - Data Visualization: Tableau       |
+| - Critical Thinking        | - Data Science: Machine Learning, Deep Learning                      |   & Power BI                        |
+| - Problem Solving          | - Data Engineering: ETL/ELT                                          | - Productivity: Excel               |
+| - Communication            | - Web Development: HTML, CSS, JavaScript, Bootstrap 5, Tailwind      |                                     |
+|                            | - Design: Figma, Framer                                              |                                     |
 
-## Hard Skills
-### Programming
-- Python
-- SQL
-
-### Data Science
-- Machine Learning
-- Deep Learning
-
-### Data Engineering
-- ETL/ELT
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Bootstrap 5
-- Tailwind
-
-### Design
-- Figma
-- Framer
-
-## Software Skills
-### Data Visualization
-- Tableau
-- Power BI
-
-### Productivity
-- Excel
 
 ### GitHub Stats
 
